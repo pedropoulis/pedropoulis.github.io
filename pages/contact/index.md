@@ -21,7 +21,7 @@ weight: 50
     </li>
     <li>
         <ul class="other inline-list space-separated-list layout">
-            <li class="tel phone"><span class="type visuallyhidden">Work</span>0141 123 4567</li>
+            <li class="tel phone"><span class="type visuallyhidden">Work</span>0141 356 0192</li>
             <li><a href="#" class="email">info@openhomelabs.com</a></li>
         </ul>
     </li>
@@ -35,8 +35,8 @@ weight: 50
                 <h2 class="organization-name visuallyhidden">OpenHome</h2>
                 <h3 class="organization-unit">Sales and Service</h3>
             </li>
-            <li><a href="#" class="email">sales@openhomelabs.com</a></li>
-            <li class="tel phone"><span class="type visuallyhidden">Work</span>0141 123 4567</li>
+            <li><a href="#" class="email">info@openhomelabs.com</a></li>
+            <li class="tel phone"><span class="type visuallyhidden">Work</span>0141 356 0192</li>
         </ul>
     </li>
 
@@ -46,8 +46,7 @@ weight: 50
                 <h2 class="organization-name visuallyhidden">OpenHome</h2>
                 <h3 class="organization-unit">Support</h3>
             </li>
-            <li><a href="#" class="email">support@openhome.co.uk</a></li>
-            <li class="tel phone"><span class="type visuallyhidden">Work</span>0141 123 4567</li>
+            <li><a href="#" class="email">support@openhomelabs.com</a></li>
         </ul>
     </li>
 </ul>
